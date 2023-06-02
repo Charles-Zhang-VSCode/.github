@@ -1,0 +1,31 @@
+# Visual Studio Code Usage
+
+Visual Studio Code Usage Notes. #vscode #visual studio code
+
+## Shortcuts
+
+<!--Things that I always forget (>3) -->
+
+* `Ctrl+U`: Open panel navigation
+* `Ctrl+K, Z`: Zen Mode
+* `Ctrl+K, O`
+* `Ctrl+K+O`
+* `Ctrl+Shift+V`: Markdown preview
+* `Ctrl+K, V`: Markdown preview, side by side
+* `Ctrl+Shift+O`: Markdown headers
+* `F1`: Overall function search popup menu.
+  * Same effect as `Ctrl+Shift+P`
+* `Ctrl+P`: Quick open file in current workspace.
+* `Alt+Left/Right`: Go to last edit locations (equivalent to `Ctrl+-` in visual studio); Use a 5-button mouse helps navigation significantly.
+
+Note that VS Code do NOT have INSERT function, e.g. when editing ASCII tables.
+
+## Extensions
+
+* [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+
+## Trick
+
+* `F1-Simple Browser: Preview`
+  * Reference: https://github.com/microsoft/vscode/pull/109276
+* In console, hold Alt until cursor change to cross, now you can select blocks from console outputs and copy them!
